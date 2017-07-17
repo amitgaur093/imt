@@ -5,3 +5,4 @@
 # "/apiservice/login.php" -> Register user using post method. Required parameter "register" and user deatils.
 # "/apiservice/getturfdata.php" -> Fetch turf details using get method. Required parameter "getdata and serachDate".
 # "/apiservice/getturfdata.php" -> Book turf using get method. Required parameter "book, slot and bookDate".
+# Currently slots for every turf have to be entered manually in database. This can be automated as per requirement.
